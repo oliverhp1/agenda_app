@@ -6,3 +6,4 @@ const PUBLIC_KEY = 'Enter your PUBLIC KEY here';
 
 exports.APP_ID = APP_ID;
 exports.PUBLIC_KEY = PUBLIC_KEY;
+
